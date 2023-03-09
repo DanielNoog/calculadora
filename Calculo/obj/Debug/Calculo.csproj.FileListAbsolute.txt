@@ -1,0 +1,37 @@
+C:\Users\Leonardo\source\repos\Calculo\Calculo\bin\Debug\Calculo.exe.config
+C:\Users\Leonardo\source\repos\Calculo\Calculo\bin\Debug\Calculo.exe
+C:\Users\Leonardo\source\repos\Calculo\Calculo\bin\Debug\Calculo.pdb
+C:\Users\Leonardo\source\repos\Calculo\Calculo\obj\Debug\Calculo.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\Calculo\Calculo\obj\Debug\Calculo.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\Calculo\Calculo\obj\Debug\Calculo.exe
+C:\Users\Leonardo\source\repos\Calculo\Calculo\obj\Debug\Calculo.pdb
+G:\2 MODULO\calculadora principal\Calculo\Calculo\bin\Debug\Calculo.exe.config
+G:\2 MODULO\calculadora principal\Calculo\Calculo\obj\Debug\Calculo.exe
+G:\2 MODULO\calculadora principal\Calculo\Calculo\obj\Debug\Calculo.pdb
+G:\2 MODULO\calculadora principal\Calculo\Calculo\bin\Debug\Calculo.exe
+G:\2 MODULO\calculadora principal\Calculo\Calculo\bin\Debug\Calculo.pdb
+G:\2 MODULO\calculadora principal\Calculo\Calculo\obj\Debug\Calculo.csprojResolveAssemblyReference.cache
+E:\2 MODULO\calculadora principal\Calculo\Calculo\bin\Debug\Calculo.exe.config
+E:\2 MODULO\calculadora principal\Calculo\Calculo\obj\Debug\Calculo.exe
+E:\2 MODULO\calculadora principal\Calculo\Calculo\obj\Debug\Calculo.pdb
+E:\2 MODULO\calculadora principal\Calculo\Calculo\bin\Debug\Calculo.exe
+E:\2 MODULO\calculadora principal\Calculo\Calculo\bin\Debug\Calculo.pdb
+E:\2 MODULO\calculadora principal\Calculo\Calculo\obj\Debug\Calculo.csprojResolveAssemblyReference.cache
+F:\2 MODULO\calculadora principal\Calculo\Calculo\bin\Debug\Calculo.exe.config
+F:\2 MODULO\calculadora principal\Calculo\Calculo\bin\Debug\Calculo.exe
+F:\2 MODULO\calculadora principal\Calculo\Calculo\bin\Debug\Calculo.pdb
+F:\2 MODULO\calculadora principal\Calculo\Calculo\obj\Debug\Calculo.csprojAssemblyReference.cache
+F:\2 MODULO\calculadora principal\Calculo\Calculo\obj\Debug\Calculo.csproj.CoreCompileInputs.cache
+F:\2 MODULO\calculadora principal\Calculo\Calculo\obj\Debug\Calculo.exe
+F:\2 MODULO\calculadora principal\Calculo\Calculo\obj\Debug\Calculo.pdb
+E:\2 MODULO\DESENVOLVIMENTO SISTEMAS - JEFERSON\calculadora principal\Calculo\Calculo\bin\Debug\Calculo.exe.config
+E:\2 MODULO\DESENVOLVIMENTO SISTEMAS - JEFERSON\calculadora principal\Calculo\Calculo\obj\Debug\Calculo.exe
+E:\2 MODULO\DESENVOLVIMENTO SISTEMAS - JEFERSON\calculadora principal\Calculo\Calculo\obj\Debug\Calculo.pdb
+D:\ETEC\2 MODULO\DESENVOLVIMENTO SISTEMAS - JEFERSON\calculadora principal\Calculo\Calculo\bin\Debug\Calculo.exe.config
+D:\ETEC\2 MODULO\DESENVOLVIMENTO SISTEMAS - JEFERSON\calculadora principal\Calculo\Calculo\bin\Debug\Calculo.exe
+D:\ETEC\2 MODULO\DESENVOLVIMENTO SISTEMAS - JEFERSON\calculadora principal\Calculo\Calculo\bin\Debug\Calculo.pdb
+D:\ETEC\2 MODULO\DESENVOLVIMENTO SISTEMAS - JEFERSON\calculadora principal\Calculo\Calculo\obj\Debug\Calculo.csproj.AssemblyReference.cache
+D:\ETEC\2 MODULO\DESENVOLVIMENTO SISTEMAS - JEFERSON\calculadora principal\Calculo\Calculo\obj\Debug\Calculo.csproj.SuggestedBindingRedirects.cache
+D:\ETEC\2 MODULO\DESENVOLVIMENTO SISTEMAS - JEFERSON\calculadora principal\Calculo\Calculo\obj\Debug\Calculo.csproj.CoreCompileInputs.cache
+D:\ETEC\2 MODULO\DESENVOLVIMENTO SISTEMAS - JEFERSON\calculadora principal\Calculo\Calculo\obj\Debug\Calculo.exe
+D:\ETEC\2 MODULO\DESENVOLVIMENTO SISTEMAS - JEFERSON\calculadora principal\Calculo\Calculo\obj\Debug\Calculo.pdb
